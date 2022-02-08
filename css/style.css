@@ -33,6 +33,7 @@ h1 {
 }
 
 h2 {
+  font-weight: unset;
   font-size: 5.1em;
   line-height: 1em;
   letter-spacing: .03em;
@@ -47,7 +48,7 @@ h3 {
 }
 
 h4 {
-  font-weight: normal;
+  font-weight: lighter;
   font-size: .7em;
   letter-spacing: .4em;
   margin-bottom: 9px;
